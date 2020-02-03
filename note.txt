@@ -1,0 +1,5 @@
+bước 1: tạo đăng ki, đăng nhập ( viết API trước -> giao diện)
+bước 2: đăng nhập: lấy được email, password -> lấy được type 
+bước 3: với type=1 thì lấy được giao diện của trang html admin
+        với type = 2 thì lấy đươc giao diện của trang html users 
+        
